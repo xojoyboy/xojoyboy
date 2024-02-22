@@ -8,7 +8,7 @@ I'm a MSc Computer Science student at Northeastern University, deeply passionate
 - 👯 I’m looking to collaborate on projects that leverage AI to solve real-world problems. I am also interested in automation, learning about quantitative finance and development, and gaming.
 - 💬 Ask me about product management, AI/ML, data science, and transitioning from a business to a technical role.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshil-c/)
-- ⚡ Fun fact: I'm an avid tennis player and love travelling.
+- ⚡ Fun fact: I'm an avid tennis player and love travelling, art, and fashion.
 
 ## 🛠 Skills
 - **Programming Languages**: Python (scikit-learn), Java, C, C++, JavaScript
