@@ -10,6 +10,10 @@ I'm a MSc Computer Science student at Northeastern University, deeply passionate
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshil-c/)
 - ⚡ Fun fact: I'm an avid tennis player and love travelling, art, and fashion.
 
+![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xojoyboy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xojoyboy&layout=compact&exclude_repo=repo1,repo2)
+
 ## 🛠 Skills
 - **Programming Languages**: Python (scikit-learn), Java, C, C++, JavaScript
 - **Frameworks/Technologies**: Node.js, Django, Restful APIs, Docker, Linux
