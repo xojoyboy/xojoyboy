@@ -9,7 +9,7 @@ I'm a MSc Computer Science student at Northeastern University, focused on master
   <img src="https://github-readme-stats.vercel.app/api?username=xojoyboy&show_icons=true&theme=radical&count_private=true" alt="Harshil's GitHub stats" />
 </p>
 
-  🔭 ** Currently Working On:**
+  🔭 **Currently Working On:**
   Developing AI models for predictive analytics, optimizing systems for real-time data processing, and working on projects that explore scalable machine learning solutions. I'm particularly interested in building robust, efficient AI systems that can handle large datasets and complex computations.
   
   🌱 **Currently Learning:**
